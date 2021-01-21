@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nuevoContacto">Nuevo Contacto</string>
+    <string name="busqueda">Buscar contacto…</string>
+    <string name="titulo_Switch">Cambiar Vista</string>
+    <string name="titulo_edad">Edad</string>
+    <string name="titulo_direccion">Dirección</string>
+    <string name="titulo_peso">Peso</string>
+    <string name="titulo_telefono">Telefono</string>
+    <string name="titulo_email">E-Mail</string>
+    <string name="texto_crear_nuevo_contacto">Crear nuevo contacto</string>
+    <string name="texto_menu_eliminar">Eliminar</string>
+    <string name="texto_menu_editar">Editar</string>
+    <string name="content_fotoUser">foto usuario</string>
+    <string name="hint_etNombre">Nombre</string>
+    <string name="hint_etApellidos">Apellidos</string>
+    <string name="hint_empresa">Empresa</string>
+    <string name="hint_edad">21 años</string>
+    <string name="hint_peso">57.2kg</string>
+    <string name="hint_direccion">Mina #513</string>
+    <string name="hint_telefono">861 116 76 60</string>
+    <string name="hint_email">saul_99_27@hotmail.com</string>
+    <string name="mensaje_dialogo_foto">Selecciona imagen de perfil</string>
+</resources>
